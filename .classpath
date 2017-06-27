@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/|Liferay/" kind="src" path=""/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/client-combined-3.0.0-beta3-nodeps.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/commons-exec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/gson-2.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/guava-19.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/httpclient-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/httpcore-4.4.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/httpmime-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/jna-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/junit-4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-3.0.0-beta3/lib/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/poi-bin-3.14-beta1-20151223/poi-3.14-beta1/poi-3.14-beta1-20151223.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/poi-bin-3.14-beta1-20151223/poi-3.14-beta1/poi-examples-3.14-beta1-20151223.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/poi-bin-3.14-beta1-20151223/poi-3.14-beta1/poi-excelant-3.14-beta1-20151223.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/poi-bin-3.14-beta1-20151223/poi-3.14-beta1/poi-ooxml-3.14-beta1-20151223.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/poi-bin-3.14-beta1-20151223/poi-3.14-beta1/poi-ooxml-schemas-3.14-beta1-20151223.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/poi-bin-3.14-beta1-20151223/poi-3.14-beta1/poi-scratchpad-3.14-beta1-20151223.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/poi-bin-3.14-beta1-20151223/poi-3.14-beta1/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/poi-bin-3.14-beta1-20151223/poi-3.14-beta1/lib/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/poi-bin-3.14-beta1-20151223/poi-3.14-beta1/lib/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/poi-bin-3.14-beta1-20151223/poi-3.14-beta1/lib/junit-4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/poi-bin-3.14-beta1-20151223/poi-3.14-beta1/lib/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/log4j-1.2.17/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/selenium-java-2.50.1/selenium-2.50.1/libs/testng-6.9.9.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/json-simple-1.1.1-sources.jar/json-simple-1.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/jackson.jar/jackson.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Softwares/json-simple-1.1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="D:/Softwares/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Flash.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
